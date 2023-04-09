@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="center" alt="coding" width="400" src="https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif?w=770&ssl=1">
+<img align="centre" alt="coding" width="400" src="https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif?w=770&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikoffl&label=Profile%20views&color=0e75b6&style=flat" alt="karthikoffl" /> </p>
 
