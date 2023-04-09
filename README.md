@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif?w=770&ssl=1">
+<img align="center" alt="coding" width="500" src="https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif?w=770&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikoffl&label=Profile%20views&color=0e75b6&style=flat" alt="karthikoffl" /> </p>
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/karthikeyan n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikeyan n" height="30" width="40" /></a>
 <a href="https://instagram.com/karthik17fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthik17fl" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sprint live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sprint live" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/X6sbX7WGM4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="X6sbX7WGM4" height="30" width="40" /></a>
+<a href="https://discord.gg/X6sbX7WGM4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/X6sbX7WGM4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
